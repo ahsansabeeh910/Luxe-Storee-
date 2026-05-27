@@ -92,7 +92,7 @@ luxe-store/
 ### Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/ahsansabeeh910/Luxe-Storee-.git
 cd luxe-store
 ```
 
